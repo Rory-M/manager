@@ -18,10 +18,15 @@ cd manager
 * npm install --save react-redux redux
 * npm install --save redux-thunk
 * npm install --save react-native-router-flux
+* npm install --save lodash
 
 ### Firebase
 
 * npm install --save firebase
+
+### Communications
+
+* npm install react-native-communications
 
 ### Create a user
 
